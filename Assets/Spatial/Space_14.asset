@@ -1,28 +1,3 @@
-%YAML 1.1
-%TAG !u! tag:unity3d.com,2011:
---- !u!114 &11400000
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5621e5ad1b9084f8bb66de8251cfd5a3, type: 3}
-  m_Name: Space_14
-  m_EditorClassIdentifier: 
-  version: 1
-  sku: 
-  packageName: Space_14
-  thumbnail: {fileID: 0}
-  savedProjectSettings: {fileID: 0}
-  worldID: 
-  scene: {fileID: 0}
-  csharpAssembly: {fileID: 0}
-  embeddedPackageAssets: []
-  networkPrefabs: []
-  settings:
-    serverInstancingEnabled: 1
-    serverCapacitySetting: 1
-    serverInstanceCapacity: 16
+version https://git-lfs.github.com/spec/v1
+oid sha256:b77284f20c6d20fb4e2b5e5d8453020b39bf9bcd1f4adc13d70fdead9aac3ef2
+size 718
